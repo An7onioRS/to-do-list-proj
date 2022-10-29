@@ -67,7 +67,7 @@ h4 {
 }
 
 .greeting .title, 
-.greeting .title input {
+#name {
     color: var(--dark);
     font-size: 1.5rem;
     font-weight: 700;
